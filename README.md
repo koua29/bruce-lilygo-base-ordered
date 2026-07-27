@@ -1,5 +1,7 @@
 # Lilygo_base_ordered — thème Bruce (version corrigée)
 
+![Aperçu avant/après](docs/preview.png)
+
 Version **corrigée** du thème **`Lilygo_base`** d'[**anonimoKali**](https://github.com/anonimoKali)
 pour le firmware [**Bruce**](https://github.com/BruceDevices/firmware)
 (LilyGO T-Embed CC1101 et autres appareils compatibles).
