@@ -58,3 +58,15 @@ Config → Wifi → BLE → RF → NRF24 → LORA → FM → IR → ETH → GPS 
 ## Licence
 
 **GNU GPLv3** — identique à la licence du thème d'origine. Voir [LICENSE](LICENSE).
+
+---
+
+## 🛒 Matériel / Hardware
+
+Le matériel utilisé pour ce projet — liens affiliés Amazon :
+
+| [<img src="docs/hw-lilygo.jpg" width="240" alt="LilyGO T-Embed CC1101">](https://link.amazon/B0cgD7wou) | [<img src="docs/hw-antenna.jpg" width="240" alt="Kit d'antennes SMA">](https://link.amazon/B0eMlSqeZ) |
+|:---:|:---:|
+| 🔌 **[LilyGO T-Embed CC1101](https://link.amazon/B0cgD7wou)** | 📡 **[Kit d'antennes SMA](https://link.amazon/B0eMlSqeZ)** |
+
+<sub>En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions requises. · As an Amazon Associate I earn from qualifying purchases.</sub>
